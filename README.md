@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Firebase,PHP<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about anything, I am happy to help;<br>📫 How to reach me: Abhishek Pandey;<br>💬 Contact no - 9315887944(mobile & whatsapp)<br>🌱 Email address - abhi93158879@gmail.com<br>📫 My CV - https://drive.google.com/file/d/1hsBtWl_yEdfi7SrO7xq98K05GGQKMz-x/view?usp=drive_link
+🔭 I’m currently working on React, Firebase,PHP<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about anything, I am happy to help;<br>📫 How to reach me: Abhishek Pandey;<br>💬 Contact no - 9315887944(mobile & whatsapp)<br>🌱 Email address - abhi93158879@gmail.com<br>📫 My CV - https://drive.google.com/file/d/1sYBtXch3PejNpi5tgFfHzJZxbCjC4zvn/view?usp=sharing
 
 
 ## 🌐 Socials:
